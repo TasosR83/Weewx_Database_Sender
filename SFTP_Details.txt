@@ -1,0 +1,6 @@
+my_sftps_address_here.org
+22
+sftp_username
+sftp_password
+/path/to/upload/on/sftp/server
+/path/to/upload/backups/on/sftp/server

@@ -1,0 +1,4 @@
+senders_email@gmail.com
+senders_password_here
+email_receiver@email.com
+My Meteo Data (= email's header)
